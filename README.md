@@ -17,5 +17,5 @@ My design was made in order to keep the cost of the PCBs down and make it easier
 - C7: Nichicon KZ Muse 470uF 25V
 - C8: Nichicon KZ Muse 47uF 25V
 - IT1: ST LF33CV
-- IC1-IC5: Fairchild 74 VHC164MX
+- IC1-IC5: Fairchild 74VHC164MX
 
