@@ -2,11 +2,13 @@
 Eagle PCB files for the [DDDAC1794](http://www.dddac.com/dddac1794.html).
 
 The motherboard designed by Doede Douma is very large and uses excessive amounts of space.
+
 My design was made in order to keep the cost of the PCBs down and make it easier to produce the PCBs by hand.
 
 ## I2S Data Shifter
 
 [OSH Park project](https://oshpark.com/shared_projects/0WZo1jOP).
+
 [Mouser project](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=fa918c21fc).
 
 ### BOM
