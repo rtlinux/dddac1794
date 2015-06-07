@@ -7,7 +7,7 @@ My design was made in order to keep the cost of the PCBs down and make it easier
 
 ## I2S Data Shifter
 
-[OSH Park project](https://oshpark.com/shared_projects/0WZo1jOP).
+[OSH Park project](https://oshpark.com/shared_projects/d8tB1U43).
 
 [Mouser project](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=fa918c21fc).
 
