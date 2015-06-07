@@ -9590,7 +9590,7 @@ drill 1.0 mm</description>
 <busses>
 </busses>
 <nets>
-<net name="GND" class="0">
+<net name="NS999" class="0">
 <segment>
 <pinref part="IC1" gate="P" pin="GND"/>
 <pinref part="GND1" gate="1" pin="GND"/>
